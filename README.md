@@ -1,5 +1,5 @@
 # sharepoint-clientside-alphabetize-calendar-overlays
-Alphabetize the calendar overlays on the left side bar.
+Alphabetizes the calendar overlays on the left side bar.
 
 ## Alphabetize Calendar Overlays on a Microsoft SharePoint 2013 Calendar
 The following is a client side JavaScript + jQuery script that can be used for alphabetizing the overlays instead of having to delete all of them and creating them in order.
