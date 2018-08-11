@@ -11,7 +11,7 @@ delete overlays.proto;
 delete overlays.prevObject;
 
 var arrOverlays = Object.keys(overlays).map(function(key) {
-  return [overlays[key]];
+	return [overlays[key]];
 });
 
 var sortedOverlays = arrOverlays.sort(function(x, y){
